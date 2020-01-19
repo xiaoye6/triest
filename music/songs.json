@@ -1,0 +1,63 @@
+{
+
+  "cranes": {
+
+    "songUrl": "https://github.com/xiaoye6/triest/blob/master/music/BTS%20(防弹少年团)%20-%20Best%20Of%20Me.mp3",
+
+    "title": "Cranes in the Sky [KAYTRANADA Remix]",
+
+    "artist": "Solange"
+
+  },
+
+  "timeless": {
+
+    "songUrl": "https://github.com/xiaoye6/triest/blob/master/music/BTS%20(防弹少年团)%20-%20Blood%20Sweat%20%26%20Tears.mp3",
+
+    "title": "Timeless",
+
+    "artist": "James Blake"
+
+  },
+
+  "knock": {
+
+    "songUrl": "https://github.com/xiaoye6/triest/blob/master/music/BTS%20(防弹少年团)%20-%20FAKE%20LOVE%20(Rocking%20Vibe%20Mix).mp3",
+
+    "title": "Twice",
+
+    "artist": "Knock Knock"
+
+  },
+
+  "deep": {
+
+    "songUrl": "https://github.com/xiaoye6/triest/blob/master/music/BTS%20(防弹少年团)%20-%20First%20Love.mp3",
+
+    "title": "Go Deep [Alesia Remix]",
+
+    "artist": "Janet Jackson"
+
+  },
+
+  "discretion": {
+
+    "songUrl": "https://github.com/xiaoye6/triest/blob/master/music/BTS%20(防弹少年团)%20-%20Go%20Go.mp3",
+
+    "title": "Innocent Discretion",
+
+    "artist": "MitiS"
+
+  },
+
+  "spear": {
+
+    "songUrl": "https://github.com/xiaoye6/triest/blob/master/music/BTS%20(防弹少年团)%20-%20Lights.mp3",
+
+    "title": "Spear of Justice (ALMOST NO KICKS)",
+
+    "artist": "Toby Fox"
+
+  }
+
+}
